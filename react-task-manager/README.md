@@ -1,16 +1,93 @@
-# React + Vite
+# React Task Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern Task Management Web App built using **React, Tailwind CSS, and REST API**.  
+This application allows users to create, view, update, delete, search, and filter tasks.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## React Compiler
+https://your-vercel-link.vercel.app
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📂 GitHub Repository
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+https://github.com/yourusername/react-task-manager
+
+---
+
+## 🛠 Tech Stack
+
+- React (Vite)
+- Tailwind CSS
+- Axios
+- React Router
+- Context API
+
+---
+
+## ✨ Features
+
+- Fetch tasks from API
+- Add new tasks
+- Edit task title
+- Toggle task completion
+- Delete tasks
+- Search tasks
+- Filter tasks (All / Completed / Pending)
+- Loading spinner
+- Error handling
+- Responsive UI
+
+---
+
+## 📡 API Used
+
+JSONPlaceholder
+
+https://jsonplaceholder.typicode.com/todos
+
+---
+
+## 📦 Installation
+
+Clone the repository
+
+git clone https://github.com/yourusername/react-task-manager.git
+
+Navigate to project folder
+
+cd react-task-manager
+
+Install dependencies
+
+npm install
+
+Start development server
+
+npm run dev
+
+---
+
+## 📸 Screenshots
+
+Task list page  
+Task detail page  
+Search and filter tasks
+
+---
+
+## 📌 Future Improvements
+
+- Dark mode
+- Task priority
+- Due date support
+- Drag & drop tasks
+
+---
+
+## 👨‍💻 Author
+
+Rahul Yadav  
+Frontend Developer (React)
