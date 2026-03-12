@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Task Manager
 
 A modern Task Management Web App built using **React, Tailwind CSS, and REST API**.  
@@ -91,3 +92,6 @@ Search and filter tasks
 
 Rahul Yadav  
 Frontend Developer (React)
+=======
+# react-task-manager
+>>>>>>> 2bb6515686325a22446cc3e2f081cb595f98de2c
