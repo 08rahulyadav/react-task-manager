@@ -1,97 +1,65 @@
-<<<<<<< HEAD
 # React Task Manager
 
-A modern Task Management Web App built using **React, Tailwind CSS, and REST API**.  
-This application allows users to create, view, update, delete, search, and filter tasks.
-
----
+A simple and responsive **Task Manager Application** built using **React (Vite)**.
+This application allows users to manage their daily tasks efficiently by adding, deleting, and tracking tasks.
 
 ## 🚀 Live Demo
 
-https://your-vercel-link.vercel.app
+👉 https://react-task-manager-one-orpin.vercel.app
 
----
+## 📌 Features
 
-## 📂 GitHub Repository
-
-https://github.com/yourusername/react-task-manager
-
----
+* Add new tasks
+* Delete tasks
+* Clean and responsive UI
+* Fast performance with Vite
+* Simple task management system
 
 ## 🛠 Tech Stack
 
-- React (Vite)
-- Tailwind CSS
-- Axios
-- React Router
-- Context API
+* React.js
+* Vite
+* JavaScript
+* HTML5
+* CSS3
 
----
+## ⚙️ Installation
 
-## ✨ Features
+Clone the repository:
 
-- Fetch tasks from API
-- Add new tasks
-- Edit task title
-- Toggle task completion
-- Delete tasks
-- Search tasks
-- Filter tasks (All / Completed / Pending)
-- Loading spinner
-- Error handling
-- Responsive UI
+```
+git clone https://github.com/08rahulyadav/react-task-manager.git
+```
 
----
+Install dependencies:
 
-## 📡 API Used
-
-JSONPlaceholder
-
-https://jsonplaceholder.typicode.com/todos
-
----
-
-## 📦 Installation
-
-Clone the repository
-
-git clone https://github.com/yourusername/react-task-manager.git
-
-Navigate to project folder
-
-cd react-task-manager
-
-Install dependencies
-
+```
 npm install
+```
 
-Start development server
+Run the project locally:
 
+```
 npm run dev
+```
 
----
+## 📦 Build for Production
 
-## 📸 Screenshots
+```
+npm run build
+```
 
-Task list page  
-Task detail page  
-Search and filter tasks
+## 🌐 Deployment
 
----
+The project is deployed on **Vercel**.
 
-## 📌 Future Improvements
-
-- Dark mode
-- Task priority
-- Due date support
-- Drag & drop tasks
-
----
+Live Link:
+https://react-task-manager-one-orpin.vercel.app
 
 ## 👨‍💻 Author
 
-Rahul Yadav  
-Frontend Developer (React)
-=======
-# react-task-manager
->>>>>>> 2bb6515686325a22446cc3e2f081cb595f98de2c
+Rahul Yadav
+MERN Stack Developer
+
+GitHub:
+https://github.com/08rahulyadav
